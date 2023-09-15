@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	background-image: url('imagens/fundo_neo.jpg');
+	background-repeat: repeat-y;
+	background-position: right;
+}
+h1{
+	color: white;
+	font-family: Arial;
+	font-style: italic;
+	width: '88%';
+	background-image: url('imagens/fundo_matrix.jpg');
+}
+h1.dir{
+	text-align: right;
+}
+p{
+	font-family: Verdana;
+	color: lightgreen;
+	text-align: justify;
+	width: '88%';
+	letter-spacing: 1.2;
+}
